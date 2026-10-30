@@ -1,0 +1,6 @@
+build/
+release/
+.venv/
+__pycache__/
+*.blend1
+viewer/barnacles.glb

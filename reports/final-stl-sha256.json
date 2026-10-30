@@ -1,0 +1,210 @@
+{
+  "先试打三颗_15mm.stl": {
+    "bytes": 15903284,
+    "sha256": "5e20ba1abfcb98016f8d93b8e394e086d7976641e626c4b52124e43a8f4aeb9d"
+  },
+  "单颗/藤壶_01.stl": {
+    "bytes": 5300884,
+    "sha256": "8cad37a6452e6c65c3a774a013a71d2b9993f54226d56b8482ef1b1e502b8b6f"
+  },
+  "单颗/藤壶_02.stl": {
+    "bytes": 5300884,
+    "sha256": "e25686d54daddbbf664219c035f134a2e4d41fcedb7caa00cda03bc0a23bbda4"
+  },
+  "单颗/藤壶_03.stl": {
+    "bytes": 5300884,
+    "sha256": "83768429b54e297f0d779df301f924508f6940139067e217d2dd3c69e411bca1"
+  },
+  "单颗/藤壶_04.stl": {
+    "bytes": 5299284,
+    "sha256": "e143d406299d9394a212816bae5f862958d4a60b2a9c74e379d4dbdf94b3909b"
+  },
+  "单颗/藤壶_05.stl": {
+    "bytes": 5300884,
+    "sha256": "336305fe4e7a9a6bfe9c975ef8fc99b1a614df3a4e1203851947aac8652c5e91"
+  },
+  "单颗/藤壶_06.stl": {
+    "bytes": 5300884,
+    "sha256": "739449aa96217dd49aae5adcefd51d0767449620c4b6ac5eacaba5c3e6e28302"
+  },
+  "单颗/藤壶_07.stl": {
+    "bytes": 5300884,
+    "sha256": "a8a37a5c721bc787bd25df64cb21586d10feb99a42030f3e83a52bdaaa5e6000"
+  },
+  "单颗/藤壶_08.stl": {
+    "bytes": 5300884,
+    "sha256": "2095e88302c5e619a1ff77d98a39d259a136cf209f3dd641faedca515c613dcd"
+  },
+  "单颗/藤壶_09.stl": {
+    "bytes": 5299284,
+    "sha256": "9d96ae3122664ddcc1119d44b55aed546c49590467ca65f1cb83397d0a18cf07"
+  },
+  "单颗/藤壶_10.stl": {
+    "bytes": 5300884,
+    "sha256": "ad38778d8f04e1d4af13d3644ece465e641f4287163bd7c602be92db3dc804b7"
+  },
+  "单颗/藤壶_11.stl": {
+    "bytes": 5300884,
+    "sha256": "0b24ab923de2cb4def91922ff1e173b873fae5a4349e2385f26e144d920a1f64"
+  },
+  "单颗/藤壶_12.stl": {
+    "bytes": 5300884,
+    "sha256": "6974b8cb726ff59b700e4f73a569467156c9b7cf7e289e345a4505ab2cec6bdc"
+  },
+  "单颗/藤壶_13.stl": {
+    "bytes": 5300884,
+    "sha256": "785027c8f7992e4decd1820b689a098cc842379b6427f1d4bccd32aa40224ec7"
+  },
+  "单颗/藤壶_14.stl": {
+    "bytes": 5299284,
+    "sha256": "3df12f7c1567a4570b466e72cc3f0af63d6a655caf0dccd6d6e4b6f92de75f0c"
+  },
+  "单颗/藤壶_15.stl": {
+    "bytes": 5300884,
+    "sha256": "f99bd4166150b50afcbf26d82a897c9b55639b1c5c79c94ecff862f889247f4d"
+  },
+  "单颗/藤壶_16.stl": {
+    "bytes": 5300884,
+    "sha256": "1fbb515f172853326227de5988636c5ebb25e15056559c916d68a996c7a8acd6"
+  },
+  "单颗/藤壶_17.stl": {
+    "bytes": 5300884,
+    "sha256": "ac1ec1b410fb067de419c99767733a90193d456a0247f9855110fcded70f7ba4"
+  },
+  "单颗/藤壶_18.stl": {
+    "bytes": 5300884,
+    "sha256": "daed2daaa16075645ee2bbeb8e6f960eadc5fcec724deb31f075a4e5ece84473"
+  },
+  "单颗/藤壶_19.stl": {
+    "bytes": 5299284,
+    "sha256": "7da21a5351f0f90f6e2dcf9eabfd20083b04894a4710afb4c0ce5244c382edda"
+  },
+  "单颗/藤壶_20.stl": {
+    "bytes": 5300884,
+    "sha256": "310bd83b3e469ae2d5c7a8b22d4b27dd191cb02c5a0b59b879c15689e5468ba4"
+  },
+  "单颗/藤壶_21.stl": {
+    "bytes": 5300884,
+    "sha256": "6b22d820d8240625ca92ed807b511a45bb0f2c442b9ca3998bfe78bf815ccd59"
+  },
+  "单颗/藤壶_22.stl": {
+    "bytes": 5300884,
+    "sha256": "58bc99357f307d5e8db1eb8a9063a2afbdd915ec9fc83910285a154f9f272366"
+  },
+  "单颗/藤壶_23.stl": {
+    "bytes": 5300884,
+    "sha256": "891a4c2e827de02f2797fdc0a2ace79d293a319d0bc518e923a6b6da181c289f"
+  },
+  "单颗/藤壶_24.stl": {
+    "bytes": 5299284,
+    "sha256": "bfad9359e78e6470ea40cda3863ac910cc947f33eb9257ff32fcc828a2a805f3"
+  },
+  "单颗/藤壶_25.stl": {
+    "bytes": 5300884,
+    "sha256": "a6ae08bab071e85a4bb646c59a81c5ca00bebfd29a7c14a6feff0b96357492b3"
+  },
+  "单颗/藤壶_26.stl": {
+    "bytes": 5300884,
+    "sha256": "9a048094c484f6c67c18f2dc7d8274e71956815dd376abd0916eb0cba2123263"
+  },
+  "单颗/藤壶_27.stl": {
+    "bytes": 5300884,
+    "sha256": "fc80c3c099750e4a00246f8cca7076f0bcae311f74519f960ec7fa80a19d0a53"
+  },
+  "单颗/藤壶_28.stl": {
+    "bytes": 5300884,
+    "sha256": "95d00074612c4f0d0dc4a39d0391131b5bc9e8fb0c566e2ba21da5805c87649a"
+  },
+  "单颗/藤壶_29.stl": {
+    "bytes": 5299284,
+    "sha256": "8ddc3d41ba90e3cd7e6c55aaa6b8f0aeb1caf1bb06c09d41ec17aabc1a5a6bbf"
+  },
+  "单颗/藤壶_30.stl": {
+    "bytes": 5300884,
+    "sha256": "46132303013ade9533f96de27a3e3a2d3a2bf9c2d3c06a489d6725f68ca1cb9e"
+  },
+  "单颗/藤壶_31.stl": {
+    "bytes": 5300884,
+    "sha256": "fb42006832fd1e7ac587888a9ea814344e29e3a1d2db21b558cae6be8b086667"
+  },
+  "单颗/藤壶_32.stl": {
+    "bytes": 5300884,
+    "sha256": "da4b38bc364604351f7f75358b115a55c42d8a3135fb740e6072861ac82661ce"
+  },
+  "单颗/藤壶_33.stl": {
+    "bytes": 5300884,
+    "sha256": "38e6c32d33f86b371d040820e0a3768194e99744080c6d275075afacfe0cc1a3"
+  },
+  "单颗/藤壶_34.stl": {
+    "bytes": 5299284,
+    "sha256": "9c3b5f2521c9b3a3ac1b13ea7be2c839f7cd230f07eeb1b232120b6cacae76f4"
+  },
+  "单颗/藤壶_35.stl": {
+    "bytes": 5300884,
+    "sha256": "047bf4533cc93b26fed71145c5d2b87b78230b875fa1bfa1c3d3a680c2ca06e6"
+  },
+  "单颗/藤壶_36.stl": {
+    "bytes": 5300884,
+    "sha256": "5ff1d7bdee32d63dd7d86dd9e0796836c90d3a0b41c14d0c5b68a0b2eb810a6d"
+  },
+  "单颗/藤壶_37.stl": {
+    "bytes": 5300884,
+    "sha256": "71b3132b56471df5c4d9d0d5f540be45006de4b1e722da2579b245b1902b6434"
+  },
+  "单颗/藤壶_38.stl": {
+    "bytes": 5300884,
+    "sha256": "2559922a85590e7f40ed87713f480142a916d69873a86db3a0aca4b6f64703d5"
+  },
+  "单颗/藤壶_39.stl": {
+    "bytes": 5299284,
+    "sha256": "9be634a06525036c13049b9c3ca2ead18eae9665e9b540d8d8e1c9ec135c475a"
+  },
+  "单颗/藤壶_40.stl": {
+    "bytes": 5300884,
+    "sha256": "045ab82febd2dd83daf7de320666bb224b8d7cb45d60aa40f4af76f69f4f03b9"
+  },
+  "单颗/藤壶_41.stl": {
+    "bytes": 5300884,
+    "sha256": "450e3f5e1d9eb34ea5e08147891dc429e48b397f8043530e503ab03f8ffaeb8a"
+  },
+  "单颗/藤壶_42.stl": {
+    "bytes": 5300884,
+    "sha256": "f6fff460d2b9b2902ce45666b7932fa842f580b77840b027070bfe30d7ca13c3"
+  },
+  "单颗/藤壶_43.stl": {
+    "bytes": 5300884,
+    "sha256": "be5e419bca25f23d6b84489559e3383bfcb6be1cb0f43e98efd8c20470f2d293"
+  },
+  "单颗/藤壶_44.stl": {
+    "bytes": 5299284,
+    "sha256": "5eee06e31fbdfd7da4a64c8f9d2f727475e27b87df9c8131fd597085cfc80482"
+  },
+  "单颗/藤壶_45.stl": {
+    "bytes": 5300884,
+    "sha256": "45800ee90d8f1f32c2f836d101eed54df979ef3c07209a5a57e4e7655d43c9b1"
+  },
+  "单颗/藤壶_46.stl": {
+    "bytes": 5300884,
+    "sha256": "d2f1a0b19e96f0d5bbe1fa2301667648eb08839cd562d7157132a3d6c6bf2dc2"
+  },
+  "单颗/藤壶_47.stl": {
+    "bytes": 5300884,
+    "sha256": "cde4ea3303c832624d68d06994ee634550894497f1077db950791983a2e4c1ee"
+  },
+  "单颗/藤壶_48.stl": {
+    "bytes": 5300884,
+    "sha256": "6202a2ee76853e92d5cf59aef536210da137538522ba3165095e87bd6d8fdecc"
+  },
+  "单颗/藤壶_49.stl": {
+    "bytes": 5299284,
+    "sha256": "34c77fe379ed3a3676a0e7e5eb01bedd9624a4b7bbe9b0d4842b2fb8dbf29303"
+  },
+  "单颗/藤壶_50.stl": {
+    "bytes": 5303284,
+    "sha256": "c6239eaedde8229e7cb666f66c5bd13d50d9c5fd9a8563a00f39b2cdf056d56b"
+  },
+  "整盘藤壶_最高15mm.stl": {
+    "bytes": 265026484,
+    "sha256": "fdad7f26a3917768d4dce905aefc195435ad4fc246e28d8f8299d569eaf0b3d5"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "count": 50,
+  "all_single_components_connected": true,
+  "closed": true,
+  "maximum_height_mm": 15.0,
+  "bounds_mm": [
+    [
+      7.628975868225098,
+      5.810403823852539,
+      0.0
+    ],
+    [
+      193.29005432128906,
+      193.3619842529297,
+      15.0
+    ]
+  ],
+  "minimum_gap_mm": 7.735997919224702,
+  "trial_count": 3,
+  "all_original_stl_hashes_match": true,
+  "mismatched_files": [],
+  "physical_print_tested": false
+}

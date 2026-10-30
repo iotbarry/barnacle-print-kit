@@ -1,0 +1,22 @@
+{
+  "count": 50,
+  "scale_factor": 0.5033557175848972,
+  "maximum_height_mm": 15.0,
+  "bounds_mm": [
+    [
+      7.628975868225098,
+      5.810403823852539,
+      0.0
+    ],
+    [
+      193.29005432128906,
+      193.3619842529297,
+      15.0
+    ]
+  ],
+  "minimum_gap_mm": 7.7359986691598515,
+  "uniform_xyz_scale": true,
+  "positions_preserved": true,
+  "closed": true,
+  "physical_print_tested": false
+}
