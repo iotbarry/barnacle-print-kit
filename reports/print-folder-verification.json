@@ -1,0 +1,38 @@
+{
+  "01_独立版_50颗": {
+    "bounds_mm": [
+      [
+        7.628975868225098,
+        5.810403823852539,
+        0.0
+      ],
+      [
+        193.29005432128906,
+        193.3619842529297,
+        15.0
+      ]
+    ],
+    "closed": true,
+    "faces_match": true,
+    "volume_matches": true,
+    "physical_print_tested": false
+  },
+  "02_群落版_30颗相连加20颗独立": {
+    "bounds_mm": [
+      [
+        10.973430633544922,
+        11.382718086242676,
+        0.0
+      ],
+      [
+        193.8885955810547,
+        194.5031280517578,
+        15.0
+      ]
+    ],
+    "closed": true,
+    "faces_match": true,
+    "volume_matches": true,
+    "physical_print_tested": false
+  }
+}
